@@ -3,7 +3,7 @@ Information about my favourite movie series/movies using different Markdown elem
 
 1. First movie 
            - Fast & Furious is a media franchise centered on a series of action films that are largely concerned with street racing, heists, spies, and family. The franchise also includes short films, a television series, live shows, toys, video games and theme park attractions. It is distributed by Universal Pictures.
-![image](https://user-images.githubusercontent.com/102405989/206858609-87d2140c-bf1e-4f41-bb5f-a5c120616ef1.png)
+           ![Fast_and_Furious_Poster](https://user-images.githubusercontent.com/102405989/206858784-ed4b478a-2292-4895-8bef-f89c213e9706.jpg)
 
 2. Second movie 
            - Earth's Mightiest Heroes stand as the planet's first line of defense against the most powerful threats in the universe. The Avengers began as a group of extraordinary individuals who were assembled to defeat Loki and his Chitauri army in New York City.
