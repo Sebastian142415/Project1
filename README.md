@@ -10,7 +10,7 @@ Information about my favourite movie series/movies using different Markdown elem
            ![avengers](https://user-images.githubusercontent.com/102405989/206858684-21cb7b11-e479-4162-b568-e45fa3bc480c.jpg)
            
 3. Third Movie 
-           - John eventually became the top enforcer for the New York Russian crime syndicate, becoming a feared and ruthless hitman that people describe as "a man of focus, commitment, and sheer will". He was later nicknamed "Baba Yaga", being further described as the man one would send to "kill the Bogeyman".
+           - John eventually became the top enforcer for the New York Russian crime syndicate, becoming a feared and ruthless hitman that people describe as "a man of focus, commitment, and sheer will". He was later nicknamed "Baba Yaga", being further described as the man one would send to "kill the Bogeyman".d
             ![john wick](https://user-images.githubusercontent.com/102405989/206858714-54fb33c0-fc43-43e3-99ec-a3aec841fb33.jpg)
 
 
